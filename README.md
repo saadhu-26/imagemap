@@ -395,15 +395,21 @@ palace.html
 
 ![alt text](saadhana/mapapp/static/map.png)
 
+
 ![alt text](Mytown.png)
+
 
 ![alt text](Park.png)
 
+
 ![alt text](Temple.png)
+
 
 ![alt text](Hospital.png)
 
+
 ![alt text](Palace.png)
+
 
 ## RESULT
 
